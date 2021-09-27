@@ -9,8 +9,25 @@ body {
 }
 main {
     background-color: white;
-    width: 500px;
+    width: 560px;
     padding: 10px;
     margin: auto;
     box-shadow: 2px 2px 8px #00000042;
+    border-radius: 10px;
+}
+h1 {
+    font-size: 2rem;
+    color: #006a94;
+}
+h2 {
+    font-size: 1.5rem;
+    color: #006a94;
+}
+img.lado {
+    float: right
+}
+a {
+    font-weight: bold;
+    text-decoration: none;
+    color: #006a94;
 }
