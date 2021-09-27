@@ -31,3 +31,6 @@ a {
     text-decoration: none;
     color: #006a94;
 }
+a:hover {
+    text-decoration: underline;
+}
